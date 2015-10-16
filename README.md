@@ -10,4 +10,4 @@ the file will explain the meaning for the code
    
 some codes is originate from High Performance Computing in the Physical Sciences taught by Thorne, M.S. 
 
-some codes is from peter shearer's book introduction to computing
+some codes is from Peter Shearer's book introduction to computing
