@@ -12,4 +12,4 @@ DO J=1,4
 write(*,*) Vp(:,J)
 ENDDO
 END PROGRAM arrays
-
+！代码为arrays 主要生成数组以及读取数组以及给予数组赋值，利用do循环
