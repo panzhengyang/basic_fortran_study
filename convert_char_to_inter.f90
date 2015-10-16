@@ -12,3 +12,4 @@ write(*,*) TRIM(ADJUSTL(output))//Jstr
 ENDDO
 END PROGRAM aa
 
+！数组是将字符串转换整数
