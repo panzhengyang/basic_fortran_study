@@ -1,6 +1,7 @@
 PROGRAM arrays
 IMPLICIT NONE
 REAL(KIND=4), DIMENSION(2,4) :: Vp
+!definite the array vp: 2 line,4 row
 INTEGER(KIND=4) :: J
 ! Put data values into column 1, rows 1:4
 Vp(1,1:4) = (/0.0, 20.0, 40.0, 60.0/)
