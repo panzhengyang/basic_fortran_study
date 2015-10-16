@@ -35,4 +35,4 @@ s = magV*theta
 alpha = (ASIN(arg))*rtd
 print *,u1,u2,u3,arg,theta,s,alpha 
 END 
-
+！计算两个向量的内积以及外积，以及两个向量的夹角
